@@ -1,0 +1,16 @@
+.bg-img1{
+  background-color: gray;
+  background-size: cover;
+  background-image:url(img/bgr1.jpg);
+}
+.bg-img2{
+  background-color: #000;
+  background-size: cover;
+  background-image:url(img/bgr2.jpg);
+}
+.bg-img3{
+  background-color: grey;
+  background-size: cover;
+  background-image:url(img/bgr3.jpg);
+  
+}
